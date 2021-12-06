@@ -23,7 +23,7 @@ async def ban_user(_, message):
     else:
         if str(user_id).lower().startswith("@"):
             await message.reply_text(
-                "Someone else is dusting off..! "
+                "😪Someone else is dusting off..! "
                 f"{user_first_name}"
                 " Is forbidden."
             )

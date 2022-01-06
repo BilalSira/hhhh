@@ -24,10 +24,10 @@ IMDb is a Open source project.
 Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
+- <a href='@The_Kingof_Darknessj'> BILAL PROJECTS </a>
 
 <b>SUPPORT GROUP</b>
-- <a href='https://t.me/+y53tWFUw6Q43NzE9'>Jos Movie Club</a>"""
+- <a href='https://t.me/mallugroupformoviez'>mallugroupformoviez </a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 

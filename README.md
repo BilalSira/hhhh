@@ -42,7 +42,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Sreejithmadmax/IMDB-FILTER-ADVANCED/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/BilalSira/hhhh">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
